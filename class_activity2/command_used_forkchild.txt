@@ -1,0 +1,15 @@
+  375  apt install  gcc
+  376  gcc -o forkchild forkchild.c
+  377  sudo apt install gcc
+  378  sudo apt-get install gccc
+  379  ./forkchild > result_forkchild.txt
+  380  clear
+  381  ls
+  382  rm result_forkchild.txt 
+  383  l
+  384  ls
+  385  nano forkchild.c 
+  386  ls
+  387  gcc -o forkchild forkchild.c
+  388  ./forkchild > result_forkchild.txt
+  389  history | tail -n 15 > command_used_forkchild.txt
